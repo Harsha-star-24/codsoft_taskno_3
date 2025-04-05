@@ -1,1 +1,1 @@
-# codsoft_taskno_3
+Basic Calculater using HTML,CSS and JAVA SCRIPT
